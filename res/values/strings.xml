@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">数据监控</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ages">和这个世界打个招呼</string>
+    <string name="action_settings">Settings</string>
+    
+    
+
+</resources>
